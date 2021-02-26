@@ -1,3 +1,4 @@
 export const hackerSpeak = (words) => {
-  return words
+string.replace('a/e/i/o','4/3/1/0')
+  
 }
